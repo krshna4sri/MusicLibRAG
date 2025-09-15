@@ -1,0 +1,5 @@
+streamlit==1.49.1
+pydrive2==1.21.3
+pymupdf==1.26.4
+faiss-cpu==1.8.0.post1
+requests==2.32.3
